@@ -7,8 +7,7 @@ A Flutter practice project demonstrating REST API integration using `http` packa
 ## 📸 Screenshots
 
 ```
-![Screen 1](assets/screenshort 1.jpeg)
-![Screen 2](assets/screenshort 2.jpeg)
+| <img src="assets/screenshots/posts_screen.png" width="280"> | <img src="assets/screenshots/photos_screen.png" width="280"> |
 ```
 
 ---
