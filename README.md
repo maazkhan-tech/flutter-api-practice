@@ -119,4 +119,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Your Name**
 - GitHub: [maazkhan-tech](https://github.com/maazkhan-tech)
-- LinkedIn: [Maaz Khan](www.linkedin.com/in/maaz-khan-5385bb386)
+- LinkedIn: [Maaz Khan](https://www.linkedin.com/in/maaz-khan-5385bb386)
