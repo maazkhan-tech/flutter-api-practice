@@ -1,10 +1,10 @@
-# 📱 Flutter API Practice
+# Flutter API Practice
 
 A Flutter practice project demonstrating REST API integration using `http` package and `FutureBuilder` for async data fetching and display.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 | API Practice (Posts) | Photos Example |
 | :---: | :---: |
@@ -12,7 +12,7 @@ A Flutter practice project demonstrating REST API integration using `http` packa
 
 ---
 
-## ✨ Features
+## Features
 
 - Fetch and display data from public REST APIs
 - Clean async data handling using `FutureBuilder`
@@ -23,7 +23,7 @@ A Flutter practice project demonstrating REST API integration using `http` packa
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Technology | Usage |
 |---|---|
@@ -35,7 +35,7 @@ A Flutter practice project demonstrating REST API integration using `http` packa
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 lib/
@@ -48,7 +48,7 @@ lib/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -60,7 +60,7 @@ lib/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/flutter-api-practice.git
+   git clone https://github.com/maazkhan-tech/flutter-api-practice.git
    cd flutter-api-practice
    ```
 
@@ -76,7 +76,7 @@ lib/
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 ```yaml
 dependencies:
@@ -87,7 +87,7 @@ dependencies:
 
 ---
 
-## 🔌 API Endpoints Used
+## API Endpoints Used
 
 | Endpoint | Description |
 |---|---|
@@ -98,7 +98,7 @@ Base URL: `https://jsonplaceholder.typicode.com`
 
 ---
 
-## 📖 What I Learned
+## What I Learned
 
 - Making HTTP GET requests in Flutter
 - Parsing JSON responses into Dart model classes
@@ -109,14 +109,14 @@ Base URL: `https://jsonplaceholder.typicode.com`
 ---
 
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Your Name**
 - GitHub: [maazkhan-tech](https://github.com/maazkhan-tech)
-- LinkedIn: [Maaz Khan](https://www.linkedin.com/in/maaz-khan-5385bb386)
+- LinkedIn: [Click](https://www.linkedin.com/in/maaz-khan-5385bb386)
